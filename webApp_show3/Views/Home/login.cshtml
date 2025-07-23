@@ -1,0 +1,41 @@
+﻿@{
+    ViewData["Title"] = "Đăng nhập";
+    
+}
+@model string
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Đăng nhập</h2>
+
+    <form method="post" asp-action="login" class="mx-auto" style="max-width: 400px;">
+        <div class="form-group mb-3">
+            <label for="name">Tài khoản</label>
+            <input type="text" class="form-control" id="name" name="name" placeholder="Nhập tên"  required/>
+            
+        </div>
+
+        <div class="form-group mb-3">
+            <label for="msv">Mật khẩu</label>
+            <input type="password" class="form-control" id="msv" name="msv" placeholder="Nhập mã sinh viên"  required/>
+            
+        </div>
+
+       
+        <div class="text-center">
+            @if (Model != null)
+            {
+                <p class="text-danger">@Model</p>
+            }
+        </div>
+       
+
+        <div class="mb-3 text-end">
+            <a asp-action="quenMK">Quên mật khẩu?</a>
+        </div>
+
+        <div class="d-flex justify-content-between">
+            <button type="submit" class="btn btn-primary">Đăng nhập</button>
+            <a href="@Url.Action("Index", "Home")" class="btn btn-secondary">Quay lại</a>
+        </div>
+    </form>
+</div>

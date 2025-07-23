@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    
+}
+
+<!DOCTYPE html>
+    <html>
+    <head>
+        <title>Welcome</title>
+    </head>
+    <body>
+        <div class="text-center">
+            <h1 class="display-4">Welcome, @ViewBag.loichao</h1>
+            <h4>@ViewBag.loichao2</h4>
+
+            <h3>Đăng ký thành viên mới hoặc đăng nhập</h3>
+
+            <div class="mt-4">
+                <a asp-action="login" class="btn btn-primary mx-2">Đăng nhập</a>
+                <a asp-action="Register" class="btn btn-success mx-2">Đăng ký</a>
+            </div>
+        </div>
+    </body>
+    </html>

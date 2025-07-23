@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LyDinhSon_65KTPM_Nam3\\ASP_NET\\webApp_show3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48A8AE78-160D-47DE-B681-9DB1EF40E3D0}|webApp_show3.csproj|d:\\lydinhson_65ktpm_nam3\\asp_net\\webapp_show3\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48A8AE78-160D-47DE-B681-9DB1EF40E3D0}|webApp_show3.csproj|solutionrelative:views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A8AE78-160D-47DE-B681-9DB1EF40E3D0}|webApp_show3.csproj|d:\\lydinhson_65ktpm_nam3\\asp_net\\webapp_show3\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48A8AE78-160D-47DE-B681-9DB1EF40E3D0}|webApp_show3.csproj|solutionrelative:views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A8AE78-160D-47DE-B681-9DB1EF40E3D0}|webApp_show3.csproj|d:\\lydinhson_65ktpm_nam3\\asp_net\\webapp_show3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48A8AE78-160D-47DE-B681-9DB1EF40E3D0}|webApp_show3.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A8AE78-160D-47DE-B681-9DB1EF40E3D0}|webApp_show3.csproj|d:\\lydinhson_65ktpm_nam3\\asp_net\\webapp_show3\\models\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A8AE78-160D-47DE-B681-9DB1EF40E3D0}|webApp_show3.csproj|solutionrelative:models\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A8AE78-160D-47DE-B681-9DB1EF40E3D0}|webApp_show3.csproj|d:\\lydinhson_65ktpm_nam3\\asp_net\\webapp_show3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A8AE78-160D-47DE-B681-9DB1EF40E3D0}|webApp_show3.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A8AE78-160D-47DE-B681-9DB1EF40E3D0}|webApp_show3.csproj|d:\\lydinhson_65ktpm_nam3\\asp_net\\webapp_show3\\views\\home\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48A8AE78-160D-47DE-B681-9DB1EF40E3D0}|webApp_show3.csproj|solutionrelative:views\\home\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A8AE78-160D-47DE-B681-9DB1EF40E3D0}|webApp_show3.csproj|d:\\lydinhson_65ktpm_nam3\\asp_net\\webapp_show3\\views\\home\\quenmk.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48A8AE78-160D-47DE-B681-9DB1EF40E3D0}|webApp_show3.csproj|solutionrelative:views\\home\\quenmk.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A8AE78-160D-47DE-B681-9DB1EF40E3D0}|webApp_show3.csproj|d:\\lydinhson_65ktpm_nam3\\asp_net\\webapp_show3\\views\\home\\mainscreen.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48A8AE78-160D-47DE-B681-9DB1EF40E3D0}|webApp_show3.csproj|solutionrelative:views\\home\\mainscreen.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A8AE78-160D-47DE-B681-9DB1EF40E3D0}|webApp_show3.csproj|d:\\lydinhson_65ktpm_nam3\\asp_net\\webapp_show3\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A8AE78-160D-47DE-B681-9DB1EF40E3D0}|webApp_show3.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A8AE78-160D-47DE-B681-9DB1EF40E3D0}|webApp_show3.csproj|d:\\lydinhson_65ktpm_nam3\\asp_net\\webapp_show3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48A8AE78-160D-47DE-B681-9DB1EF40E3D0}|webApp_show3.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A8AE78-160D-47DE-B681-9DB1EF40E3D0}|webApp_show3.csproj|d:\\lydinhson_65ktpm_nam3\\asp_net\\webapp_show3\\views\\home\\thanks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48A8AE78-160D-47DE-B681-9DB1EF40E3D0}|webApp_show3.csproj|solutionrelative:views\\home\\thanks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "logout.cshtml",
+              "DocumentMoniker": "D:\\LyDinhSon_65KTPM_Nam3\\ASP_NET\\webApp_show3\\Views\\Home\\logout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\logout.cshtml",
+              "ToolTip": "D:\\LyDinhSon_65KTPM_Nam3\\ASP_NET\\webApp_show3\\Views\\Home\\logout.cshtml",
+              "RelativeToolTip": "Views\\Home\\logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T09:06:17.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "quenMK.cshtml",
+              "DocumentMoniker": "D:\\LyDinhSon_65KTPM_Nam3\\ASP_NET\\webApp_show3\\Views\\Home\\quenMK.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\quenMK.cshtml",
+              "ToolTip": "D:\\LyDinhSon_65KTPM_Nam3\\ASP_NET\\webApp_show3\\Views\\Home\\quenMK.cshtml",
+              "RelativeToolTip": "Views\\Home\\quenMK.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T15:56:25.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\LyDinhSon_65KTPM_Nam3\\ASP_NET\\webApp_show3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\LyDinhSon_65KTPM_Nam3\\ASP_NET\\webApp_show3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAiwIAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T14:27:08.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\LyDinhSon_65KTPM_Nam3\\ASP_NET\\webApp_show3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\LyDinhSon_65KTPM_Nam3\\ASP_NET\\webApp_show3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T16:46:17.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "login.cshtml",
+              "DocumentMoniker": "D:\\LyDinhSon_65KTPM_Nam3\\ASP_NET\\webApp_show3\\Views\\Home\\login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\login.cshtml",
+              "ToolTip": "D:\\LyDinhSon_65KTPM_Nam3\\ASP_NET\\webApp_show3\\Views\\Home\\login.cshtml",
+              "RelativeToolTip": "Views\\Home\\login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T14:38:57.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repo.cs",
+              "DocumentMoniker": "D:\\LyDinhSon_65KTPM_Nam3\\ASP_NET\\webApp_show3\\Models\\Repo.cs",
+              "RelativeDocumentMoniker": "Models\\Repo.cs",
+              "ToolTip": "D:\\LyDinhSon_65KTPM_Nam3\\ASP_NET\\webApp_show3\\Models\\Repo.cs",
+              "RelativeToolTip": "Models\\Repo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T15:02:19.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\LyDinhSon_65KTPM_Nam3\\ASP_NET\\webApp_show3\\Views\\Home\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Register.cshtml",
+              "ToolTip": "D:\\LyDinhSon_65KTPM_Nam3\\ASP_NET\\webApp_show3\\Views\\Home\\Register.cshtml",
+              "RelativeToolTip": "Views\\Home\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T14:44:59.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainScreen.cshtml",
+              "DocumentMoniker": "D:\\LyDinhSon_65KTPM_Nam3\\ASP_NET\\webApp_show3\\Views\\Home\\MainScreen.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\MainScreen.cshtml",
+              "ToolTip": "D:\\LyDinhSon_65KTPM_Nam3\\ASP_NET\\webApp_show3\\Views\\Home\\MainScreen.cshtml",
+              "RelativeToolTip": "Views\\Home\\MainScreen.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T15:27:19.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\LyDinhSon_65KTPM_Nam3\\ASP_NET\\webApp_show3\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "D:\\LyDinhSon_65KTPM_Nam3\\ASP_NET\\webApp_show3\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T14:25:10.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\LyDinhSon_65KTPM_Nam3\\ASP_NET\\webApp_show3\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\LyDinhSon_65KTPM_Nam3\\ASP_NET\\webApp_show3\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T14:27:38.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Thanks.cshtml",
+              "DocumentMoniker": "D:\\LyDinhSon_65KTPM_Nam3\\ASP_NET\\webApp_show3\\Views\\Home\\Thanks.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Thanks.cshtml",
+              "ToolTip": "D:\\LyDinhSon_65KTPM_Nam3\\ASP_NET\\webApp_show3\\Views\\Home\\Thanks.cshtml",
+              "RelativeToolTip": "Views\\Home\\Thanks.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T15:11:54.285Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
